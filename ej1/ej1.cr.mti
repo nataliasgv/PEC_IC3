@@ -1,0 +1,56 @@
+D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1a_architecture.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1a_architecture.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture estructura1 of ej1
+-- Loading entity ej1
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/NOT_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/NOT_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT_gate
+-- Compiling architecture estructuraNOT of NOT_gate
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/OR_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/OR_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR_gate
+-- Compiling architecture estructuraOR of OR_gate
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1b_architecture.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1b_architecture.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture estructura2 of ej1
+-- Loading entity ej1
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1a_entity.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/1a_entity.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ej1
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/ej1_testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/ej1_testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity testbench
+-- Compiling architecture tb of testbench
+
+} {} {}} D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/AND_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej1/AND_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_gate
+-- Compiling architecture estructuraAND of AND_gate
+
+} {} {}}

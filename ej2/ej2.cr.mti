@@ -1,0 +1,50 @@
+C:/ej2/compNbits_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/compNbits_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity compNbits_tb
+-- Compiling architecture compNbits_tb of compNbits_tb
+
+} {} {}} C:/ej2/NOT_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/NOT_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT_gate
+-- Compiling architecture estructuraNOT of NOT_gate
+
+} {} {}} C:/ej2/XNOR_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/XNOR_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity XNOR_gate
+-- Compiling architecture estructuraXNOR of XNOR_gate
+
+} {} {}} C:/ej2/AND_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/AND_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_gate
+-- Compiling architecture estructuraAND of AND_gate
+
+} {} {}} C:/ej2/comp1bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/comp1bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity comp1bit
+-- Compiling architecture comp1bit of comp1bit
+
+} {} {}} C:/ej2/compNbits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/ej2/compNbits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity compNbits
+-- Compiling architecture compNbits of compNbits
+
+} {} {}}

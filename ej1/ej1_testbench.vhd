@@ -1,0 +1,62 @@
+library IEEE; 
+use IEEE.std_logic_1164.all; 
+
+entity testbench is
+end entity testbench;
+
+architecture tb of testbench is
+	
+-- Declaración de señales
+	signal x,y,z 	: std_logic;
+	signal F, G	: std_logic;
+
+-- Selección de la entidad
+	component ej1 is
+        	port( F, G : out std_logic;
+        	      x, y, z : in std_logic);
+   	end component;
+
+begin
+	
+	UUT : ej1 port map (F => F, G => G, x => x, y => y, z => z); 
+	
+	vect_test: process 
+
+	begin
+		x <= '0'; y <= '0'; z <= '0'; wait for 200 ns;
+      		x <= '0'; y <= '0'; z <= '1'; wait for 200 ns;
+        	x <= '0'; y <= '1'; z <= '0'; wait for 200 ns;
+        	x <= '0'; y <= '1'; z <= '1'; wait for 200 ns;
+        	x <= '1'; y <= '0'; z <= '0'; wait for 200 ns;
+        	x <= '1'; y <= '0'; z <= '1'; wait for 200 ns;
+        	x <= '1'; y <= '1'; z <= '0'; wait for 200 ns;
+        	x <= '1'; y <= '1'; z <= '1'; wait for 200 ns;
+
+	end process vect_test; 
+
+-- Verificación de las salidas 
+	verif : process 
+		variable error_status : boolean;
+	begin
+
+ 	wait on x, y, z;
+        wait for 100 ns;
+	
+	if ((x = '0' and y = '0' and z = '0' and F = '1' and G = '0') or
+            (x = '0' and y = '0' and z = '1' and F = '1' and G = '1') or
+            (x = '0' and y = '1' and z = '0' and F = '1' and G = '0') or
+            (x = '0' and y = '1' and z = '1' and F = '1' and G = '1') or
+            (x = '1' and y = '0' and z = '0' and F = '1' and G = '0') or
+            (x = '1' and y = '0' and z = '1' and F = '0' and G = '0') or
+            (x = '1' and y = '1' and z = '0' and F = '1' and G = '1') or
+            (x = '1' and y = '1' and z = '1' and F = '0' and G = '1')) 
+	then
+            error_status := false;
+        else
+            error_status := true;
+        end if;
+
+	assert not error_status report "Test fallado." severity note; 
+	end process verif; 
+end architecture tb;
+

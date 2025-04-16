@@ -1,0 +1,259 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.2
+Eand_gate
+Z0 w1744648870
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 73
+Z3 dC:/ej2
+Z4 8C:/ej2/AND_gate.vhd
+Z5 FC:/ej2/AND_gate.vhd
+l0
+L4 1
+V=fAJVU1Zi054XSfi5X8QG1
+!s100 cVWh?Wh_IDNONW;MQ=QQ11
+Z6 OV;C;2021.1;73
+32
+Z7 !s110 1744649305
+!i10b 1
+Z8 !s108 1744649305.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/AND_gate.vhd|
+Z10 !s107 C:/ej2/AND_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aestructuraand
+R1
+R2
+DEx4 work 8 and_gate 0 22 =fAJVU1Zi054XSfi5X8QG1
+!i122 73
+l12
+Z13 L11 4
+VRMm]kHeb@hn3[F<4QF^O;2
+!s100 Xo[dcI;QhMgFZkGJ5[SaV2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecomp1bit
+Z14 w1744649199
+R1
+R2
+!i122 69
+R3
+Z15 8C:/ej2/comp1bit.vhd
+Z16 FC:/ej2/comp1bit.vhd
+l0
+L4 1
+VD66;`9zGmfoR9][UD>mRG3
+!s100 h4MUMCOSzC62aKgJ_W<No2
+R6
+32
+Z17 !s110 1744649304
+!i10b 1
+Z18 !s108 1744649304.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/comp1bit.vhd|
+Z20 !s107 C:/ej2/comp1bit.vhd|
+!i113 1
+R11
+R12
+Acomp1bit
+R1
+R2
+DEx4 work 8 comp1bit 0 22 D66;`9zGmfoR9][UD>mRG3
+!i122 69
+l36
+L11 37
+VPjc=5R4;aR=]^eFF_4M=i0
+!s100 1dY:Vm7NbRKo563X>7=z92
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Ecompnbits
+Z21 w1743889563
+R1
+R2
+!i122 70
+R3
+Z22 8C:/ej2/compNbits.vhd
+Z23 FC:/ej2/compNbits.vhd
+l0
+L4 1
+V7^`6QIIGaT2bI@Y9V=Qgl2
+!s100 [DDm]7jdESSFHn0kOh0TS3
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/compNbits.vhd|
+Z25 !s107 C:/ej2/compNbits.vhd|
+!i113 1
+R11
+R12
+Acompnbits
+R1
+R2
+DEx4 work 9 compnbits 0 22 7^`6QIIGaT2bI@Y9V=Qgl2
+!i122 70
+l20
+L11 43
+Vf4EmLSb=?B;n[L2cI6lhj2
+!s100 hj7dhJj[eD<T5nHBKzWDJ0
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Ecompnbits_tb
+Z26 w1743888864
+Z27 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 71
+R3
+Z28 8C:/ej2/compNbits_tb.vhd
+Z29 FC:/ej2/compNbits_tb.vhd
+l0
+L5 1
+VShVLIIe<hW^:0>GKN>4k;3
+!s100 Gk_nji]T4IHf6clU=MFWj0
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/compNbits_tb.vhd|
+Z31 !s107 C:/ej2/compNbits_tb.vhd|
+!i113 1
+R11
+R12
+Acompnbits_tb
+R27
+R1
+R2
+DEx4 work 12 compnbits_tb 0 22 ShVLIIe<hW^:0>GKN>4k;3
+!i122 71
+l31
+L10 55
+VKj7YS;b56IC2[eUfECFO01
+!s100 ^=TT2@hLXPAV;6j=3^9mY2
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Enot_gate
+Z32 w1744648793
+R1
+R2
+!i122 72
+R3
+Z33 8C:/ej2/NOT_gate.vhd
+Z34 FC:/ej2/NOT_gate.vhd
+l0
+L4 1
+V^N7EV2W4UMInK;nG:SfcL1
+!s100 ENiFjeb0zV=;0LkGUVQBk3
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/NOT_gate.vhd|
+Z36 !s107 C:/ej2/NOT_gate.vhd|
+!i113 1
+R11
+R12
+Aestructuranot
+R1
+R2
+DEx4 work 8 not_gate 0 22 ^N7EV2W4UMInK;nG:SfcL1
+!i122 72
+l12
+R13
+VgDCzGhBlgO=7eICUZV<@T0
+!s100 2QhNKBO]FT<b3KC_CPNQz0
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Exnor_gate
+Z37 w1744648974
+R1
+R2
+!i122 74
+R3
+Z38 8C:/ej2/XNOR_gate.vhd
+Z39 FC:/ej2/XNOR_gate.vhd
+l0
+L4 1
+V?3`<9^0]92aNI9[WdbfQG2
+!s100 J]TfUC2ad@YM`haZiAmdf2
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/ej2/XNOR_gate.vhd|
+Z41 !s107 C:/ej2/XNOR_gate.vhd|
+!i113 1
+R11
+R12
+Aestructuraxnor
+R1
+R2
+Z42 DEx4 work 9 xnor_gate 0 22 ?3`<9^0]92aNI9[WdbfQG2
+!i122 74
+l12
+R13
+Z43 VKibd8C8@FXPID8JkJn2MS0
+Z44 !s100 ?1B1<72AXokR5;G^blMa@3
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12

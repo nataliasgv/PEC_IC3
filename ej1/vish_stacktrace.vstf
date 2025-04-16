@@ -1,0 +1,85 @@
+# Current time Mon Apr 14 18:20:51 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 81ec8b55. Traceback:
+# 0    0x81ec8b55: '<unknown (@0x81ec8b55)>'
+# 1    0x0048aa58: 'make_ident_link + 0xffff7068'
+# 2    0x00502e1b: 'EnumDispProc + 0x1aa2b'
+# 3    0x00502f63: 'EnumDispProc + 0x1ab73'
+# 4    0x005034bc: 'EnumDispProc + 0x1b0cc'
+# 5    0x0043fb86: 'make_ident_link + 0xfffac196'
+# 6    0x0041a70f: 'make_ident_link + 0xfff86d1f'
+# 7    0x004d6536: 'mti_strlen + 0x390b6'
+# 8    0x004e9c09: 'EnumDispProc + 0x1819'
+# 9    0x698b39f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Apr 14 18:20:51 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 0048aa50. Traceback:
+# 0    0x0048aa50: 'make_ident_link + 0xffff7060'
+# 1    0x00502e1b: 'EnumDispProc + 0x1aa2b'
+# 2    0x00502f63: 'EnumDispProc + 0x1ab73'
+# 3    0x005034bc: 'EnumDispProc + 0x1b0cc'
+# 4    0x0043fb86: 'make_ident_link + 0xfffac196'
+# 5    0x0041a70f: 'make_ident_link + 0xfff86d1f'
+# 6    0x004d6536: 'mti_strlen + 0x390b6'
+# 7    0x004e9c09: 'EnumDispProc + 0x1819'
+# 8    0x698b39f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Apr 14 18:20:51 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 0048aa50. Traceback:
+# 0    0x0048aa50: 'make_ident_link + 0xffff7060'
+# 1    0x00502e1b: 'EnumDispProc + 0x1aa2b'
+# 2    0x00502f63: 'EnumDispProc + 0x1ab73'
+# 3    0x005034bc: 'EnumDispProc + 0x1b0cc'
+# 4    0x0043fb86: 'make_ident_link + 0xfffac196'
+# 5    0x0041a70f: 'make_ident_link + 0xfff86d1f'
+# 6    0x004d6536: 'mti_strlen + 0x390b6'
+# 7    0x004e9c09: 'EnumDispProc + 0x1819'
+# 8    0x698b39f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Mon Apr 14 18:20:51 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2021.1"
+# Version = "2021.02"
+# Date = "Feb  3 2021"
+# Platform = win32aloem
+
+Exception c0000005 has occurred at address 0048aa50. Traceback:
+# 0    0x0048aa50: 'make_ident_link + 0xffff7060'
+# 1    0x00502e1b: 'EnumDispProc + 0x1aa2b'
+# 2    0x00502f63: 'EnumDispProc + 0x1ab73'
+# 3    0x005034bc: 'EnumDispProc + 0x1b0cc'
+# 4    0x0043fb86: 'make_ident_link + 0xfffac196'
+# 5    0x0041a70f: 'make_ident_link + 0xfff86d1f'
+# 6    0x004d6536: 'mti_strlen + 0x390b6'
+# 7    0x004e9c09: 'EnumDispProc + 0x1819'
+# 8    0x698b39f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+

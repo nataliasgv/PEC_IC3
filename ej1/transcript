@@ -1,0 +1,9 @@
+# Compile of 1a_entity.vhd was successful.
+# Compile of 1a_architecture.vhd was successful.
+# Compile of 1b_architecture.vhd was successful.
+# Compile of ej1_testbench.vhd was successful.
+# Compile of NOT_gate.vhd was successful.
+# Compile of AND_gate.vhd was successful.
+# Compile of OR_gate.vhd was successful.
+# 7 compiles, 0 failed with no errors.
+project open D:/Trabajos_y_estudios/UNED/2o_curso/2_semestre/IC3/modelSimThings/pecIC3/ej2/ej2

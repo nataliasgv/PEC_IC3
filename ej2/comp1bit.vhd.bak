@@ -1,0 +1,13 @@
+library IEEE;
+use IEEE. std_logic_1164.all;
+
+entity comp1bit is port
+( eout, gout : out std_logic; -- gout a 1 si x>y, eout a 1 si x = y
+ x, y : in std_logic); -- bits a comparar
+end entity comp1bit;
+
+architecture comp1bit of comp1bit is
+begin
+eout <= (x xnor y); -- eout=1 si x=y, eot=0 en caso contrario
+gout <= x and (not y); -- gout =1 si x=1, y =0, gout=0 en otro caso
+end architecture comp1bit; 
