@@ -1,6 +1,6 @@
 # Circuitos Digitales en VHDL
 
-Este repositorio contiene el desarrollo de dos ejercicios relacionados con el diseño de circuitos digitales usando VHDL. Ambos ejercicios forman parte de un trabajo académico para la carrera de Ingeniería Informatica en la UNED.
+Este repositorio contiene el desarrollo de dos ejercicios relacionados con el diseño de circuitos digitales usando VHDL. Ambos ejercicios forman parte de un trabajo académico para la asignatura de Ingeniería de Computadores 3 de la carrera de Ingeniería Informatica en la UNED.
 ---
 
 ## Ejercicio 1: Implementación de Funciones Lógicas
